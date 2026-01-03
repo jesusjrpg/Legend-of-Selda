@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7901240259254654519
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 9135666170484025737, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_Name
+      value: Pumpkin Boss
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -53.118237
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 34.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.4055
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.4055
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025740, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.4055
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025742, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ac47992deae024e4f96aaf9d2acdd760, type: 2}
+    - target: {fileID: 9135666170484025731, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: expWhenDefeated
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025730, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: level
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135666170484025741, guid: be3eef7b277c7bb448f4d594d35f78d8,
+        type: 3}
+      propertyPath: timeToMakeStep
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: be3eef7b277c7bb448f4d594d35f78d8, type: 3}
