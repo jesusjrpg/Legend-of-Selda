@@ -1,4 +1,4 @@
-# [Legend of Selda] - A Zelda-inspired 2D RPG Tech Demo 🗡️🛡️
+# [Legend of Selda] - A Zelda-inspired 2D RPG Tech Demo 
 
 ![Gameplay Preview](Media/gameplay-demo.gif)
 
@@ -6,7 +6,7 @@ This project represents my **first comprehensive dive into Unity game developmen
 
 ---
 
-### 🚀 Key Implemented Systems & Features
+### Key Implemented Systems & Features
 
 This demo showcases a robust set of interconnected systems, demonstrating foundational game development principles:
 
@@ -32,7 +32,7 @@ This demo showcases a robust set of interconnected systems, demonstrating founda
 
 ---
 
-### 💡 Learning & Development Focus
+### Learning & Development Focus
 
 This project was pivotal in my journey, serving as a hands-on lab for:
 
@@ -43,7 +43,7 @@ This project was pivotal in my journey, serving as a hands-on lab for:
 
 ---
 
-### 🔗 Project Status
+### Project Status
 This project served as a foundational learning tool. While not a commercial release, it is a complete showcase of core gameplay systems.
 
 ---
