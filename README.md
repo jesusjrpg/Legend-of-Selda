@@ -1,6 +1,10 @@
 # [Legend of Selda] - A Zelda-inspired 2D RPG Tech Demo 
 
-![Gameplay Preview](Media/gameplay-demo.gif)
+<p align="center">
+  <img src="Media/gameplay_showcase.gif" alt="Full Gameplay Systems Showcase" width="800">
+  <br>
+  <i>Comprehensive showcase: Combat, Dialogue, Quest, and Inventory systems in action.</i>
+</p>
 
 This project represents my **first comprehensive dive into Unity game development and C# programming**, taking inspiration from classic 2D action RPGs like The Legend of Zelda. Developed as a personal learning initiative, it served as a practical sandbox for implementing a wide array of core game mechanics and systems.
 
