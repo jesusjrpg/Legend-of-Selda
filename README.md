@@ -1,5 +1,7 @@
 # [Legend of Selda] - A Zelda-inspired 2D RPG Tech Demo 
 
+<div id="showcase"></div>
+
 <p align="center">
   <img src="Media/gameplay_showcase.gif" alt="Full Gameplay Systems Showcase" width="800">
   <br>
